@@ -13,6 +13,10 @@
     <p>
         When I'm not working or studying, I like to create art, whether it be digital or traditional, although I favor watercolors and graphite. I also enjoy studying new languages and linguistics. I'm currently learning Spanish and American Sign Language. I also dabble in a bit of cartography from time to time.
     </p>
+    # My Work
+    Here is a collection of projects that I have worked one.
+    ## Pixel Paper
+    
     
 </body>
 </html>
