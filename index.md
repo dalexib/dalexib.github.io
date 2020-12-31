@@ -18,26 +18,29 @@
     <p>Here is a collection of projects that I have worked one.</p>
     <h2> Pixel Paper </h2>
     <p>I worked with a group to create an application to alleviate the issue that arose during the pivot from traditional instruction to remote learning. Conducted interviews, made personas, and designed an interface for the project.
+    <a href="https://people.rit.edu/~emc6595/HCIN620/teamWebsiteHCIN620/">View Pixel Paper Project </a>
     </p>
-    <a href="pages/pixelpaper.html">View Pixel Paper Project </a>
+    
     <br>
 
     <h2> DMV Form Redesign </h2>
     <img src="assets/d,v.png " alt="dmv mockup" />
     <p>In this project, I focused on steamlining and simplfying the current process of registering a vehicle. I also explored different options to fill out a form, instead of the traditional pen and paper method, that will hopefully speed up your visit to the DMV.
+   <a href="pages/dmv.html">View DMV Redesign Project </a>
     </p>
-    <a href="pages/dmv.html">View DMV Redesign Project </a>
+
 <br>
     <h2> My Wine Shelf </h2>
      <img src="assets/wine.png " alt="my wine shelf mockup" />
     <p>An app to concept to help, Constellation Brands, company that manages 100s of alcohol brands, gauge what their consumers like and possibly get insight on potentially trends, so they can acquire new brands to benefit their business.
+     <a href="pages/wine.html">View My Wine Shelf </a>
     </p>
-    <a href="pages/wine.html">View My Wine Shelf </a>
-
+   
      <h2> Other Work </h2>
     <p>A collection of work that I have done, that doesn't merit a deep dive.
-    </p>
     <a href="pages/other.html">View My Other Work </a>
+    </p>
+    
     
     
 </body>
