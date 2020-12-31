@@ -6,7 +6,7 @@
     <title>Dymen Barkins</title>
 </head>
 <body>
-    <h1>Dymen Barkins</h1>
+    <h1>About Me</h1>
     <p>
         I'm a graduate student at Rochester Institute of Technology, studying Human-Computer Interaction. I work as a Research Assitant with the Center for Accessibiltiy and Inclusion Research (CAIR) Lab  As technology becomes more and more integral to our everyday lives, I enjoy finding solutions and designing ways to make that integration more seamless and accessible.  I also have a keen interest in working with low-income and marginalized communities and exploring how to make technology more adaptable to their needs.
     </p>
