@@ -21,4 +21,4 @@ American public school teachers are often underpaid and overworked. It's their r
 ![Teacher's Pay](assets/other/teacher.png)
 
 
-[back](../)
+[back](./)

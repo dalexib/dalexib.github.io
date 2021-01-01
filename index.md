@@ -8,7 +8,7 @@
 <body>
     <h1>About Me</h1>
     <p>
-        I'm a graduate student at Rochester Institute of Technology, studying Human-Computer Interaction. I work as a Research Assitant with the Center for Accessibiltiy and Inclusion Research (CAIR) Lab  As technology becomes more and more integral to our everyday lives, I enjoy finding solutions and designing ways to make that integration more seamless and accessible.  I also have a keen interest in working with low-income and marginalized communities and exploring how to make technology more adaptable to their needs.
+        I'm a graduate student at Rochester Institute of Technology, studying Human-Computer Interaction. I work as a Research Assistant with the Center for Accessibiltiy and Inclusion Research (CAIR) Lab  As technology becomes more and more integral to our everyday lives, I enjoy finding solutions and designing ways to make that integration more seamless and accessible.  I also have a keen interest in working with low-income and marginalized communities and exploring how to make technology more adaptable to their needs.
     </p>
     <p>
         When I'm not working or studying, I like to create art, whether it be digital or traditional, although I favor watercolors and graphite. I also enjoy studying new languages and linguistics. I'm currently learning Spanish and American Sign Language. I also dabble in a bit of cartography from time to time.
@@ -22,23 +22,29 @@
     </p>
     
     <br>
+    <h2> FCU Redesign </h2>
+    <img src="assets/fcu.png " alt="FCU mockup" />
+    <p> A redesign of the Empower Federal Credit Union App.
+    <a href="fcu.html">View Federal Credit Union App Redesign Project </a>
+    </p>
+
 
     <h2> DMV Form Redesign </h2>
     <img src="assets/d,v.png " alt="dmv mockup" />
     <p>In this project, I focused on steamlining and simplfying the current process of registering a vehicle. I also explored different options to fill out a form, instead of the traditional pen and paper method, that will hopefully speed up your visit to the DMV.
-   <a href="pages/dmv.html">View DMV Redesign Project </a>
+   <a href="dmv.html">View DMV Redesign Project </a>
     </p>
 
 <br>
     <h2> My Wine Shelf </h2>
      <img src="assets/wine.png " alt="my wine shelf mockup" />
     <p>An app to concept to help, Constellation Brands, company that manages 100s of alcohol brands, gauge what their consumers like and possibly get insight on potentially trends, so they can acquire new brands to benefit their business.
-     <a href="pages/wine.html">View My Wine Shelf </a>
+     <a href="wine.html">View My Wine Shelf </a>
     </p>
    
      <h2> Other Work </h2>
     <p>A collection of work that I have done, that doesn't merit a deep dive.
-    <a href="pages/other.html">View My Other Work </a>
+    <a href="other.html">View My Other Work </a>
     </p>
     
     
