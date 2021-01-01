@@ -3,7 +3,7 @@ layout: default
 ---
 
 # My Wine Shelf
-![Wine Shelf Logo](assests/wine.png)
+![Wine Shelf Logo](assets/wine.png)
 
 ## Problem and Purpose
 Constellation Brands is company that manages 100s of alcohol brands, and everyday acquire new brands of alcohols to add to their collection. With all the brands they own, CB would like to gauge what their consumers like and possibly get insight on potentially trends, so they can acquire new brands to benefit their business.
