@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+[back](./)
 
 # Assorted Work
 A collection of various visual design projects I have created
