@@ -6,6 +6,8 @@ layout: default
 # My Wine Shelf
 ![Wine Shelf Logo](assets/wine.png)
 
+[My Wine Shelf Prototype](https://www.figma.com/proto/SL20C2hdwfmKyW3oeRBdPG73/Wine-Shelf?node-id=45%3A22&scaling=min-zoom&redirected=1)
+
 ## Problem and Purpose
 Constellation Brands is company that manages 100s of alcohol brands, and everyday acquire new brands of alcohols to add to their collection. With all the brands they own, CB would like to gauge what their consumers like and possibly get insight on potentially trends, so they can acquire new brands to benefit their business.
 
@@ -26,6 +28,10 @@ Armed with my research and my goal in mind, I began brainstorming concepts for a
 
 ​I primarily see this app being used to manage large collections of wines and find potential additions to a wine collection. People will potentially use this app to find new wines and connect with other people who wish to connect with other wine consumers.
 
+![Wine Shelf Draft](assets/wine/draft1.png)
+
+![Wine Shelf Draft](assets/wine/draft2.png)
+
 ​After completing the wireframes I made a few edits to the structure of a few of the screens, most notably the profile and home page. With the profile page, I added removed the smaller self and created more of highlight section. This allowed the page to breathe more and improved the function of the page as a quickview of the person's tastes and preferences. You don't need to see everything about the person right away.
 
 ## The Product
@@ -34,5 +40,7 @@ In the end, I created an app to help users discover wine that interests them thr
 Through this project, I learned more about balancing the needs of stakeholders as well as that of the users. As much as I would love create projects solely for the needs of the user, I understand that the needs of business can be just as important.
 
 If I were to redo this project, I would most likely change some of the visual elements and introduce an accent color. I would also explore what the structure of other screens would look like since I main focused on the userflow of adding a wine to a collection.
+
+![Wine Shelf Draft](assets/wine/final.png)
 
 [back](./)
