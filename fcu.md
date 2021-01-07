@@ -4,7 +4,6 @@ layout: default
 [back](./)
 
 # FCU Redesign
-![Federal Credit Union](assets/fcu/fcu.png)
 
 ## About
 Online banking is becoming increasingly popular, however, many banking apps aren’t the most visually appealing and at times can appear clunky and unfriendly. I redesigned the Empower Federal Credit Union app to make it more approachable and fun. I changed the color palette to a warmer tone and increased the size of the type to be readable by a larger range of individuals.

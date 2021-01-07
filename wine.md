@@ -6,7 +6,8 @@ layout: default
 # My Wine Shelf
 ![Wine Shelf Logo](assets/wine.png)
 
-[My Wine Shelf Prototype](https://www.figma.com/proto/SL20C2hdwfmKyW3oeRBdPG73/Wine-Shelf?node-id=45%3A22&scaling=min-zoom&redirected=1)
+<a class="button" href="https://www.figma.com/proto/SL20C2hdwfmKyW3oeRBdPG73/Wine-Shelf?node-id=45%3A22&scaling=min-zoom&redirected=1">View Prototype</a>
+
 
 ## Problem and Purpose
 Constellation Brands is company that manages 100s of alcohol brands, and everyday acquire new brands of alcohols to add to their collection. With all the brands they own, CB would like to gauge what their consumers like and possibly get insight on potentially trends, so they can acquire new brands to benefit their business.

@@ -6,6 +6,8 @@ layout: default
 # DMV Form Redesign
 ![DMV Form Redesign](assets/d,v.png)
 
+<a class="button" href="https://xd.adobe.com/view/2cfa324a-0e16-4815-5409-4ab602788060-5acb/">View Prototype</a>
+
 ## Problem and Purpose
 No one likes going to the DMV. You sit in a room full of people, waiting for hours, to complete a task that, at times, will only take a few minutes. The current DMV form to register a vehicle is long and overwhelming and there is a lot of information that a person might not even to fill out. The process can be error-prone at times as users might not know what information they need to bring or even not what information is even required.
 

@@ -8,7 +8,7 @@
 <body>
     <h1>About Me</h1>
     <p>
-        I'm a graduate student at Rochester Institute of Technology, studying Human-Computer Interaction. I work as a Research Assistant with the Center for Accessibiltiy and Inclusion Research (CAIR) Lab  As technology becomes more and more integral to our everyday lives, I enjoy finding solutions and designing ways to make that integration more seamless and accessible.  I also have a keen interest in working with low-income and marginalized communities and exploring how to make technology more adaptable to their needs.
+        I'm a graduate student at Rochester Institute of Technology, studying Human-Computer Interaction. I work as a Research Assistant with the Center for Accessibility and Inclusion Research (CAIR) Lab <a href="http://cair.rit.edu/">(CAIR Lab Website) </a> As technology becomes more and more integral to our everyday lives, I enjoy finding solutions and designing ways to make that integration more seamless and accessible.  I also have a keen interest in working with low-income and marginalized communities and exploring how to make technology more adaptable to their needs.
     </p>
     <p>
         When I'm not working or studying, I like to create art, whether it be digital or traditional, although I favor watercolors and graphite. I also enjoy studying new languages and linguistics. I'm currently learning Spanish and American Sign Language. I also dabble in a bit of cartography from time to time.
@@ -23,7 +23,7 @@
     
     <br>
     <h2> FCU Redesign </h2>
-    <img src="assets/fcu.png " alt="FCU mockup" />
+    <img src="assets/fcu/fcu.png " alt="FCU mockup" />
     <p> A redesign of the Empower Federal Credit Union App.
     <a href="fcu.html">View Federal Credit Union App Redesign Project </a>
     </p>
