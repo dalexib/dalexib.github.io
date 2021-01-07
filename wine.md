@@ -6,7 +6,8 @@ layout: default
 # My Wine Shelf
 ![Wine Shelf Logo](assets/wine.png)
 
-<a class="button" href="https://www.figma.com/proto/SL20C2hdwfmKyW3oeRBdPG73/Wine-Shelf?node-id=45%3A22&scaling=min-zoom&redirected=1">View Prototype</a>
+<button name="button" onclick="https://www.figma.com/proto/SL20C2hdwfmKyW3oeRBdPG73/Wine-Shelf?node-id=45%3A22&scaling=min-zoom&redirected=1">View Prototype</button>
+
 
 
 ## Problem and Purpose
